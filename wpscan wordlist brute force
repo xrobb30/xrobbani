@@ -1,2 +1,0 @@
-wpscan --url http://www.iidss.org --passwords /root/Desktop/wordlist.txt
-
